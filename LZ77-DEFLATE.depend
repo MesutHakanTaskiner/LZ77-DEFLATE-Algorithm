@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1589662934 source:c:\users\hakan\desktop\lz77-deflate\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
+1589666008 source:c:\users\hakan\desktop\proje-2 lz77 - deflate\lz77-deflate\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
+1589725020 source:c:\users\hakan\desktop\proje-2 lz77 - deflate\2_170202027_170202008\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
